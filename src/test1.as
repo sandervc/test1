@@ -35,7 +35,7 @@ package
 			
 			camera.addBitmapData(bitmapData);
 			
-			//test
+			//testing git
 		//camera.addBitmapData(d);
 		
 				
